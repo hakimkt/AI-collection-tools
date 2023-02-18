@@ -556,7 +556,7 @@ powered by ada. | supporting better health outcomes and clinical excellence with
 | [Smarty Names](http://smartynames.com) | Free Creative Domain Name Search by AI Robots. | Finding a creative and unique domain that is still available is easy with SmartyNames.com - Tell us what you do, and our robots will find the domain that is just right for you. Company name generator in one click. | :white_check_mark: |
 | [StockGPT](https://www.askstockgpt.com/) | AI-Powered Search Engine. | StockGPT is an AI-powered search engine that was trained on all of Tesla&apos;s quarterly earnings call transcripts dating back to Q2 2011. | :white_check_mark: |
 | [You](http://you.com) | The AI Search Engine You Control. | . | :white_check_mark: |
-
+| [Theresanaiforthat](https://theresanaiforthat.com/) | AI-Database | AI with vibes | :white_check_mark: |
 
 ### Slides & Web Design
 | Name | Title | Description | Offer Free Version |
